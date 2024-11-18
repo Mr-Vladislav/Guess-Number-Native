@@ -1,2 +1,2 @@
 # Guess-Number-Native
-React native number guessing game
+React Native number guessing game
